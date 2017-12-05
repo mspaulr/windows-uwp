@@ -14,7 +14,7 @@ ms.localizationpriority: high
 # Configure precise release scheduling
 
 The **Schedule** section on the [Pricing and availability](set-app-pricing-and-availability.md) page lets you set the precise date and time that your app should become available in the Store, giving you greater flexibility and the ability to customize dates for different markets.
-
+ 
 > [!NOTE]
 > Although this topic refers to apps, release scheduling for add-on submissions uses the same process.
 
@@ -41,7 +41,7 @@ You’ll see two options here: **Release** and **Stop acquisition**.
 In the **Release** drop-down, you can set when you want your app to be available in the Store. This means that the app is discoverable in the Store via searching or browsing, and that customers can view its Store listing and acquire the app.
 
 >[!NOTE]
-> After your app has been published and has become available in the Store, you will no longer be able to select a **Release** date (since the app will already have been released).
+> After your app has been published and has become available in the Store, you will no longer be able to select a **Release** date for this submission (since the app will already have been released). If you choose to configure a release date for a subsequent submission, please note that your current submission will be suppressed and your app will be unavailable until the selected release date. For this reason, we recommend using this feature only for the first public submission of your app.
 
 Here are the options you can configure for a product’s **Release** schedule:
 - **as soon as possible**: The product will release as soon as it is certified and published. This is the default option.
